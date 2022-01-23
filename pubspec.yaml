@@ -1,0 +1,18 @@
+name: new_try_server_dart
+description: A web server built using the shelf package.
+# version: 1.0.0
+# homepage: https://www.example.com
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  args: ^2.0.0
+  shelf: ^1.1.0
+
+
+dev_dependencies:
+  pedantic: ^1.10.0
+  build_runner: ^2.1.0
+  build_test: ^2.1.0
+  build_web_compilers: ^3.0.0
