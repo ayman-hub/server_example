@@ -7,7 +7,7 @@ WorkingDirectory=/home/ayman/server_example
 ExecStart=/home/ayman/flutter/bin/dart bin/server.dart
 Restart=always
 # Remove this line if using Angel:
-Environment=ANGEL_ENV=production
+#Environment=ANGEL_ENV=production
 
 [Install]
 WantedBy=multi-user.target
