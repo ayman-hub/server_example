@@ -2,7 +2,7 @@
 Description=server_example
 
 [Service]
-Type=forking
+Type=oneshot
 User=web
 WorkingDirectory=/home/ayman/server_example
 ExecStart=/home/ayman/flutter/bin/dart bin/server.dart
