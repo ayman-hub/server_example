@@ -3,7 +3,7 @@ Description=server_example
 
 [Service]
 Type=oneshot
-User=web
+User=ayman
 WorkingDirectory=/home/ayman/server_example
 ExecStart=/home/ayman/flutter/bin/dart bin/server.dart
 Restart=always
