@@ -1,5 +1,5 @@
 [Unit]
-Description=My Dart app
+Description=My server_example app
 
 [Service]
 User=web
@@ -7,7 +7,7 @@ WorkingDirectory=/home/ayman/server_example
 ExecStart=/usr/lib/dart/bin/dart bin/server.dart
 Restart=always
 # Remove this line if using Angel:
-# Environment=ANGEL_ENV=production
+Environment=ANGEL_ENV=production
 
 [Install]
 WantedBy=multi-user.target
