@@ -1,0 +1,13 @@
+[Unit]
+Description=My Dart app
+
+[Service]
+User=web
+WorkingDirectory=/home/web/server_example
+ExecStart=/usr/lib/dart/bin/dart bin/server.dart
+Restart=always
+# Remove this line if using Angel:
+# Environment=ANGEL_ENV=production
+
+[Install]
+WantedBy=multi-user.target
