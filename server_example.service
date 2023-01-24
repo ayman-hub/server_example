@@ -3,7 +3,7 @@ Description=server_example
 
 [Service]
 User=ayman
-WorkingDirectory=/home/ayman/server_example
+WorkingDirectory=/home/ayman/payroll
 ExecStart=/home/ayman/flutter/bin/dart bin/server.dart
 Restart=always
 # Remove this line if using Angel:
