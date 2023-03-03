@@ -4,7 +4,7 @@ Description=payroll
 
 [Service]
 User=ayman
-WorkingDirectory=/home/ayman/payroll
+WorkingDirectory=/var/www/html/payroll
 ExecStart=/home/ayman/flutter/bin/dart bin/server.dart
 Restart=always
 # Remove this line if using Angel:
