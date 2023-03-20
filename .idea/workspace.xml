@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2cd96aa6-1f37-4a46-8829-22d95d80a82b" name="Changes" comment="update server asnan and cusmo">
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="2cd96aa6-1f37-4a46-8829-22d95d80a82b" name="Changes" comment="update server">
       <change beforePath="$PROJECT_DIR$/server_example.conf" beforeDir="false" afterPath="$PROJECT_DIR$/server_example.conf" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -15,10 +13,11 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DarkyenusTimeTracker">
-    <option name="totalTimeSeconds" value="768" />
+    <option name="totalTimeSeconds" value="1086" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -90,7 +89,21 @@
       <option name="project" value="LOCAL" />
       <updated>1677842228803</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="update server">
+      <created>1679313953948</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1679313953948</updated>
+    </task>
+    <task id="LOCAL-00007" summary="update server">
+      <created>1679314136378</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1679314136378</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -106,9 +119,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="remove app" />
-    <MESSAGE value="update server" />
     <MESSAGE value="update server add asnan" />
     <MESSAGE value="update server asnan and cusmo" />
-    <option name="LAST_COMMIT_MESSAGE" value="update server asnan and cusmo" />
+    <MESSAGE value="update server" />
+    <option name="LAST_COMMIT_MESSAGE" value="update server" />
   </component>
 </project>
