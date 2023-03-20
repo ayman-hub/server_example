@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2cd96aa6-1f37-4a46-8829-22d95d80a82b" name="Changes" comment="update server">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="2cd96aa6-1f37-4a46-8829-22d95d80a82b" name="Changes" comment="update server111">
+      <change beforePath="$PROJECT_DIR$/server_example.conf" beforeDir="false" afterPath="$PROJECT_DIR$/server_example.conf" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,7 +13,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DarkyenusTimeTracker">
-    <option name="totalTimeSeconds" value="1850" />
+    <option name="totalTimeSeconds" value="2014" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -131,7 +131,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679333984387</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="update server111">
+      <created>1679337979757</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1679337979757</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -150,6 +157,7 @@
     <MESSAGE value="update server add asnan" />
     <MESSAGE value="update server asnan and cusmo" />
     <MESSAGE value="update server" />
-    <option name="LAST_COMMIT_MESSAGE" value="update server" />
+    <MESSAGE value="update server111" />
+    <option name="LAST_COMMIT_MESSAGE" value="update server111" />
   </component>
 </project>
