@@ -4,7 +4,7 @@ Description=eco
 
 [Service]
 User=ayman
-WorkingDirectory=/var/www/html/eco/eco_dashboard
+WorkingDirectory=/home/ayman/eco/eco_dashboard
 ExecStart=/home/ayman/flutter/bin/dart bin/server.dart
 Restart=always
 # Remove this line if using Angel:
