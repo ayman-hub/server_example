@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2cd96aa6-1f37-4a46-8829-22d95d80a82b" name="Changes" comment="server socket reset">
-      <change beforePath="$PROJECT_DIR$/server_example.conf" beforeDir="false" afterPath="$PROJECT_DIR$/server_example.conf" afterDir="false" />
+    <list default="true" id="2cd96aa6-1f37-4a46-8829-22d95d80a82b" name="Changes" comment="server socket 4">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,7 +13,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DarkyenusTimeTracker">
-    <option name="totalTimeSeconds" value="14253" />
+    <option name="totalTimeSeconds" value="14619" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -53,34 +53,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1677838431458</updated>
-    </task>
-    <task id="LOCAL-00016" summary="update server1113">
-      <created>1679348152888</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1679348152888</updated>
-    </task>
-    <task id="LOCAL-00017" summary="update server1113">
-      <created>1679348279689</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1679348279689</updated>
-    </task>
-    <task id="LOCAL-00018" summary="update server1113">
-      <created>1679348408887</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1679348408887</updated>
-    </task>
-    <task id="LOCAL-00019" summary="update server1113">
-      <created>1679348507444</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1679348507444</updated>
     </task>
     <task id="LOCAL-00020" summary="update server1113">
       <created>1679348600664</created>
@@ -397,7 +369,35 @@
       <option name="project" value="LOCAL" />
       <updated>1688139777216</updated>
     </task>
-    <option name="localTasksCounter" value="65" />
+    <task id="LOCAL-00065" summary="server socket 1">
+      <created>1688139896591</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1688139896592</updated>
+    </task>
+    <task id="LOCAL-00066" summary="server socket 2">
+      <created>1688139936016</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1688139936016</updated>
+    </task>
+    <task id="LOCAL-00067" summary="server socket 3">
+      <created>1688140006122</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1688140006122</updated>
+    </task>
+    <task id="LOCAL-00068" summary="server socket 4">
+      <created>1688140126572</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1688140126572</updated>
+    </task>
+    <option name="localTasksCounter" value="69" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -432,9 +432,11 @@
     <MESSAGE value="change eco location" />
     <MESSAGE value="add dashboard website eco" />
     <MESSAGE value="server socket" />
+    <MESSAGE value="server socket reset" />
+    <MESSAGE value="server socket 1" />
     <MESSAGE value="server socket 2" />
     <MESSAGE value="server socket 3" />
-    <MESSAGE value="server socket reset" />
-    <option name="LAST_COMMIT_MESSAGE" value="server socket reset" />
+    <MESSAGE value="server socket 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="server socket 4" />
   </component>
 </project>
