@@ -4,16 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2cd96aa6-1f37-4a46-8829-22d95d80a82b" name="Changes" comment="remove https">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="2cd96aa6-1f37-4a46-8829-22d95d80a82b" name="Changes" comment="make http before https" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DarkyenusTimeTracker">
-    <option name="totalTimeSeconds" value="16688" />
+    <option name="totalTimeSeconds" value="16817" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -53,20 +51,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1677838431458</updated>
-    </task>
-    <task id="LOCAL-00030" summary="update server1113">
-      <created>1679351492551</created>
-      <option name="number" value="00030" />
-      <option name="presentableId" value="LOCAL-00030" />
-      <option name="project" value="LOCAL" />
-      <updated>1679351492551</updated>
-    </task>
-    <task id="LOCAL-00031" summary="update server1113">
-      <created>1679351582000</created>
-      <option name="number" value="00031" />
-      <option name="presentableId" value="LOCAL-00031" />
-      <option name="project" value="LOCAL" />
-      <updated>1679351582000</updated>
     </task>
     <task id="LOCAL-00032" summary="update server1113">
       <created>1679351635604</created>
@@ -397,7 +381,21 @@
       <option name="project" value="LOCAL" />
       <updated>1691607941720</updated>
     </task>
-    <option name="localTasksCounter" value="79" />
+    <task id="LOCAL-00079" summary="make http before https">
+      <created>1691608531144</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1691608531144</updated>
+    </task>
+    <task id="LOCAL-00080" summary="make http before https">
+      <created>1691608574006</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1691608574006</updated>
+    </task>
+    <option name="localTasksCounter" value="81" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -412,7 +410,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="dns" />
     <MESSAGE value="location / course_site" />
     <MESSAGE value="demo" />
     <MESSAGE value="test" />
@@ -437,6 +434,7 @@
     <MESSAGE value="accept http and https with different servers" />
     <MESSAGE value="accept http and https with different servers 2" />
     <MESSAGE value="remove https" />
-    <option name="LAST_COMMIT_MESSAGE" value="remove https" />
+    <MESSAGE value="make http before https" />
+    <option name="LAST_COMMIT_MESSAGE" value="make http before https" />
   </component>
 </project>
