@@ -4,16 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2cd96aa6-1f37-4a46-8829-22d95d80a82b" name="Changes" comment="server socket 4">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="2cd96aa6-1f37-4a46-8829-22d95d80a82b" name="Changes" comment="server socket 5" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DarkyenusTimeTracker">
-    <option name="totalTimeSeconds" value="14619" />
+    <option name="totalTimeSeconds" value="14702" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -53,13 +51,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1677838431458</updated>
-    </task>
-    <task id="LOCAL-00020" summary="update server1113">
-      <created>1679348600664</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1679348600664</updated>
     </task>
     <task id="LOCAL-00021" summary="update server1113">
       <created>1679348797150</created>
@@ -397,7 +388,14 @@
       <option name="project" value="LOCAL" />
       <updated>1688140126572</updated>
     </task>
-    <option name="localTasksCounter" value="69" />
+    <task id="LOCAL-00069" summary="server socket 5">
+      <created>1688141790854</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1688141790854</updated>
+    </task>
+    <option name="localTasksCounter" value="70" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -412,7 +410,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="remove app" />
     <MESSAGE value="update server add asnan" />
     <MESSAGE value="update server asnan and cusmo" />
     <MESSAGE value="update server" />
@@ -437,6 +434,7 @@
     <MESSAGE value="server socket 2" />
     <MESSAGE value="server socket 3" />
     <MESSAGE value="server socket 4" />
-    <option name="LAST_COMMIT_MESSAGE" value="server socket 4" />
+    <MESSAGE value="server socket 5" />
+    <option name="LAST_COMMIT_MESSAGE" value="server socket 5" />
   </component>
 </project>
