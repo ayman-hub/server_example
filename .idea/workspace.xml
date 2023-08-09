@@ -4,14 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2cd96aa6-1f37-4a46-8829-22d95d80a82b" name="Changes" comment="delete remove caches and ssl_certificate" />
+    <list default="true" id="2cd96aa6-1f37-4a46-8829-22d95d80a82b" name="Changes" comment="delete remove caches and ssl_certificate2">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DarkyenusTimeTracker">
-    <option name="totalTimeSeconds" value="14986" />
+    <option name="totalTimeSeconds" value="15272" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -51,13 +53,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1677838431458</updated>
-    </task>
-    <task id="LOCAL-00022" summary="update server1113">
-      <created>1679348935995</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL-00022" />
-      <option name="project" value="LOCAL" />
-      <updated>1679348935995</updated>
     </task>
     <task id="LOCAL-00023" summary="update server1113">
       <created>1679349623257</created>
@@ -395,7 +390,14 @@
       <option name="project" value="LOCAL" />
       <updated>1691603891940</updated>
     </task>
-    <option name="localTasksCounter" value="71" />
+    <task id="LOCAL-00071" summary="delete remove caches and ssl_certificate2">
+      <created>1691604396482</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1691604396482</updated>
+    </task>
+    <option name="localTasksCounter" value="72" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -410,7 +412,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="update server asnan and cusmo" />
     <MESSAGE value="update server" />
     <MESSAGE value="update server111" />
     <MESSAGE value="update server1112" />
@@ -435,6 +436,7 @@
     <MESSAGE value="server socket 4" />
     <MESSAGE value="server socket 5" />
     <MESSAGE value="delete remove caches and ssl_certificate" />
-    <option name="LAST_COMMIT_MESSAGE" value="delete remove caches and ssl_certificate" />
+    <MESSAGE value="delete remove caches and ssl_certificate2" />
+    <option name="LAST_COMMIT_MESSAGE" value="delete remove caches and ssl_certificate2" />
   </component>
 </project>
