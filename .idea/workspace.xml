@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2cd96aa6-1f37-4a46-8829-22d95d80a82b" name="Changes" comment="another try http and https">
+    <list default="true" id="2cd96aa6-1f37-4a46-8829-22d95d80a82b" name="Changes" comment="last try">
       <change beforePath="$PROJECT_DIR$/server_example.conf" beforeDir="false" afterPath="$PROJECT_DIR$/server_example.conf" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -13,7 +13,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DarkyenusTimeTracker">
-    <option name="totalTimeSeconds" value="19282" />
+    <option name="totalTimeSeconds" value="19623" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -53,13 +53,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1677838431458</updated>
-    </task>
-    <task id="LOCAL-00042" summary="demo">
-      <created>1681457539315</created>
-      <option name="number" value="00042" />
-      <option name="presentableId" value="LOCAL-00042" />
-      <option name="project" value="LOCAL" />
-      <updated>1681457539315</updated>
     </task>
     <task id="LOCAL-00043" summary="test">
       <created>1681562636256</created>
@@ -397,7 +390,14 @@
       <option name="project" value="LOCAL" />
       <updated>1691611208682</updated>
     </task>
-    <option name="localTasksCounter" value="91" />
+    <task id="LOCAL-00091" summary="last try">
+      <created>1691611765447</created>
+      <option name="number" value="00091" />
+      <option name="presentableId" value="LOCAL-00091" />
+      <option name="project" value="LOCAL" />
+      <updated>1691611765448</updated>
+    </task>
+    <option name="localTasksCounter" value="92" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -412,7 +412,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="demo" />
     <MESSAGE value="test" />
     <MESSAGE value="smart" />
     <MESSAGE value="glass" />
@@ -437,6 +436,7 @@
     <MESSAGE value="remove https" />
     <MESSAGE value="make http before https" />
     <MESSAGE value="another try http and https" />
-    <option name="LAST_COMMIT_MESSAGE" value="another try http and https" />
+    <MESSAGE value="last try" />
+    <option name="LAST_COMMIT_MESSAGE" value="last try" />
   </component>
 </project>
