@@ -4,14 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2cd96aa6-1f37-4a46-8829-22d95d80a82b" name="Changes" comment="add call back to https when call http" />
+    <list default="true" id="2cd96aa6-1f37-4a46-8829-22d95d80a82b" name="Changes" comment="accept http and https" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DarkyenusTimeTracker">
-    <option name="totalTimeSeconds" value="15818" />
+    <option name="totalTimeSeconds" value="16060" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -51,20 +51,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1677838431458</updated>
-    </task>
-    <task id="LOCAL-00025" summary="update server1113">
-      <created>1679349975020</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
-      <option name="project" value="LOCAL" />
-      <updated>1679349975020</updated>
-    </task>
-    <task id="LOCAL-00026" summary="update server1113">
-      <created>1679350783204</created>
-      <option name="number" value="00026" />
-      <option name="presentableId" value="LOCAL-00026" />
-      <option name="project" value="LOCAL" />
-      <updated>1679350783204</updated>
     </task>
     <task id="LOCAL-00027" summary="update server1113">
       <created>1679351138865</created>
@@ -395,7 +381,21 @@
       <option name="project" value="LOCAL" />
       <updated>1691606516395</updated>
     </task>
-    <option name="localTasksCounter" value="74" />
+    <task id="LOCAL-00074" summary="add call back to https when call http without 301">
+      <created>1691607126933</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1691607126933</updated>
+    </task>
+    <task id="LOCAL-00075" summary="accept http and https">
+      <created>1691607343485</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1691607343485</updated>
+    </task>
+    <option name="localTasksCounter" value="76" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -410,8 +410,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="update server1112" />
-    <MESSAGE value="update server1113" />
     <MESSAGE value="sdd" />
     <MESSAGE value="try fix send and get big files" />
     <MESSAGE value="add demo" />
@@ -435,6 +433,8 @@
     <MESSAGE value="delete remove caches and ssl_certificate2" />
     <MESSAGE value="add ssl" />
     <MESSAGE value="add call back to https when call http" />
-    <option name="LAST_COMMIT_MESSAGE" value="add call back to https when call http" />
+    <MESSAGE value="add call back to https when call http without 301" />
+    <MESSAGE value="accept http and https" />
+    <option name="LAST_COMMIT_MESSAGE" value="accept http and https" />
   </component>
 </project>
