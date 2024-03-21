@@ -51,20 +51,6 @@
       <option name="presentableId" value="Default" />
       <updated>1677838431458</updated>
     </task>
-    <task id="LOCAL-00054" summary="smart">
-      <created>1681916167302</created>
-      <option name="number" value="00054" />
-      <option name="presentableId" value="LOCAL-00054" />
-      <option name="project" value="LOCAL" />
-      <updated>1681916167302</updated>
-    </task>
-    <task id="LOCAL-00055" summary="glass">
-      <created>1685787234121</created>
-      <option name="number" value="00055" />
-      <option name="presentableId" value="LOCAL-00055" />
-      <option name="project" value="LOCAL" />
-      <updated>1685787234122</updated>
-    </task>
     <task id="LOCAL-00056" summary="add eco">
       <created>1687871300397</created>
       <option name="number" value="00056" />
@@ -394,7 +380,21 @@
       <option name="project" value="LOCAL" />
       <updated>1711025983724</updated>
     </task>
-    <option name="localTasksCounter" value="103" />
+    <task id="LOCAL-00103" summary="s">
+      <created>1711026179913</created>
+      <option name="number" value="00103" />
+      <option name="presentableId" value="LOCAL-00103" />
+      <option name="project" value="LOCAL" />
+      <updated>1711026179913</updated>
+    </task>
+    <task id="LOCAL-00104" summary="s">
+      <created>1711026264513</created>
+      <option name="number" value="00104" />
+      <option name="presentableId" value="LOCAL-00104" />
+      <option name="project" value="LOCAL" />
+      <updated>1711026264514</updated>
+    </task>
+    <option name="localTasksCounter" value="105" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
