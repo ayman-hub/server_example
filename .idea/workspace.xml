@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2cd96aa6-1f37-4a46-8829-22d95d80a82b" name="Changes" comment="s" />
+    <list default="true" id="2cd96aa6-1f37-4a46-8829-22d95d80a82b" name="Changes" comment="s">
+      <change beforePath="$PROJECT_DIR$/asnan.service" beforeDir="false" afterPath="$PROJECT_DIR$/asnan.service" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/asnanTwo.service" beforeDir="false" afterPath="$PROJECT_DIR$/asnanTwo.service" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cusmo.service" beforeDir="false" afterPath="$PROJECT_DIR$/cusmo.service" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eco.service" beforeDir="false" afterPath="$PROJECT_DIR$/eco.service" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,13 +55,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1677838431458</updated>
-    </task>
-    <task id="LOCAL-00058" summary="add dashboard website eco">
-      <created>1687873363262</created>
-      <option name="number" value="00058" />
-      <option name="presentableId" value="LOCAL-00058" />
-      <option name="project" value="LOCAL" />
-      <updated>1687873363263</updated>
     </task>
     <task id="LOCAL-00059" summary="add dashboard website eco">
       <created>1687875154503</created>
@@ -394,7 +392,14 @@
       <option name="project" value="LOCAL" />
       <updated>1711026610210</updated>
     </task>
-    <option name="localTasksCounter" value="107" />
+    <task id="LOCAL-00107" summary="s">
+      <created>1711026738990</created>
+      <option name="number" value="00107" />
+      <option name="presentableId" value="LOCAL-00107" />
+      <option name="project" value="LOCAL" />
+      <updated>1711026738990</updated>
+    </task>
+    <option name="localTasksCounter" value="108" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

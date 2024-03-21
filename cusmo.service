@@ -5,7 +5,7 @@ Description=cusmo
 [Service]
 User=ayman
 WorkingDirectory=/var/www/html/payroll
-ExecStart=/home/ayman/flutter/bin/dart bin/servers/server_cusmo.dart
+ExecStart=/var/www/html/flutter/bin/dart bin/servers/server_cusmo.dart
 Restart=always
 # Remove this line if using Angel:
 #Environment=ANGEL_ENV=production
