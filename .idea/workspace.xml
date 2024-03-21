@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2cd96aa6-1f37-4a46-8829-22d95d80a82b" name="Changes" comment="update eco">
-      <change afterPath="$PROJECT_DIR$/asnanTwo.service" afterDir="false" />
+    <list default="true" id="2cd96aa6-1f37-4a46-8829-22d95d80a82b" name="Changes" comment="add asnan_two">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server_example.conf" beforeDir="false" afterPath="$PROJECT_DIR$/server_example.conf" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,7 +13,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DarkyenusTimeTracker">
-    <option name="totalTimeSeconds" value="20859" />
+    <option name="totalTimeSeconds" value="21005" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -55,13 +53,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1677838431458</updated>
-    </task>
-    <task id="LOCAL-00047" summary="test">
-      <created>1681564891588</created>
-      <option name="number" value="00047" />
-      <option name="presentableId" value="LOCAL-00047" />
-      <option name="project" value="LOCAL" />
-      <updated>1681564891588</updated>
     </task>
     <task id="LOCAL-00048" summary="test">
       <created>1681567232570</created>
@@ -399,7 +390,14 @@
       <option name="project" value="LOCAL" />
       <updated>1695375013378</updated>
     </task>
-    <option name="localTasksCounter" value="96" />
+    <task id="LOCAL-00096" summary="add asnan_two">
+      <created>1708107866023</created>
+      <option name="number" value="00096" />
+      <option name="presentableId" value="LOCAL-00096" />
+      <option name="project" value="LOCAL" />
+      <updated>1708107866023</updated>
+    </task>
+    <option name="localTasksCounter" value="97" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -414,7 +412,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="smart" />
     <MESSAGE value="glass" />
     <MESSAGE value="add eco" />
     <MESSAGE value="change eco location" />
@@ -439,6 +436,7 @@
     <MESSAGE value="another try http and https" />
     <MESSAGE value="last try" />
     <MESSAGE value="update eco" />
-    <option name="LAST_COMMIT_MESSAGE" value="update eco" />
+    <MESSAGE value="add asnan_two" />
+    <option name="LAST_COMMIT_MESSAGE" value="add asnan_two" />
   </component>
 </project>
