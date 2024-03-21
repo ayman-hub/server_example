@@ -51,20 +51,6 @@
       <option name="presentableId" value="Default" />
       <updated>1677838431458</updated>
     </task>
-    <task id="LOCAL-00056" summary="add eco">
-      <created>1687871300397</created>
-      <option name="number" value="00056" />
-      <option name="presentableId" value="LOCAL-00056" />
-      <option name="project" value="LOCAL" />
-      <updated>1687871300397</updated>
-    </task>
-    <task id="LOCAL-00057" summary="change eco location">
-      <created>1687871980836</created>
-      <option name="number" value="00057" />
-      <option name="presentableId" value="LOCAL-00057" />
-      <option name="project" value="LOCAL" />
-      <updated>1687871980836</updated>
-    </task>
     <task id="LOCAL-00058" summary="add dashboard website eco">
       <created>1687873363262</created>
       <option name="number" value="00058" />
@@ -394,7 +380,21 @@
       <option name="project" value="LOCAL" />
       <updated>1711026264514</updated>
     </task>
-    <option name="localTasksCounter" value="105" />
+    <task id="LOCAL-00105" summary="s">
+      <created>1711026422992</created>
+      <option name="number" value="00105" />
+      <option name="presentableId" value="LOCAL-00105" />
+      <option name="project" value="LOCAL" />
+      <updated>1711026422993</updated>
+    </task>
+    <task id="LOCAL-00106" summary="s">
+      <created>1711026610210</created>
+      <option name="number" value="00106" />
+      <option name="presentableId" value="LOCAL-00106" />
+      <option name="project" value="LOCAL" />
+      <updated>1711026610210</updated>
+    </task>
+    <option name="localTasksCounter" value="107" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
