@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2cd96aa6-1f37-4a46-8829-22d95d80a82b" name="Changes" comment="service">
-      <change beforePath="$PROJECT_DIR$/asnanTwo.service" beforeDir="false" afterPath="$PROJECT_DIR$/asnanTwo.service" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cusmo.service" beforeDir="false" afterPath="$PROJECT_DIR$/cusmo.service" afterDir="false" />
-    </list>
+    <list default="true" id="2cd96aa6-1f37-4a46-8829-22d95d80a82b" name="Changes" comment="service" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,13 +50,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1677838431458</updated>
-    </task>
-    <task id="LOCAL-00062" summary="server socket 3">
-      <created>1688139498035</created>
-      <option name="number" value="00062" />
-      <option name="presentableId" value="LOCAL-00062" />
-      <option name="project" value="LOCAL" />
-      <updated>1688139498035</updated>
     </task>
     <task id="LOCAL-00063" summary="server socket reset">
       <created>1688139690610</created>
@@ -397,7 +387,14 @@
       <option name="project" value="LOCAL" />
       <updated>1711096292319</updated>
     </task>
-    <option name="localTasksCounter" value="111" />
+    <task id="LOCAL-00111" summary="service">
+      <created>1711096407468</created>
+      <option name="number" value="00111" />
+      <option name="presentableId" value="LOCAL-00111" />
+      <option name="project" value="LOCAL" />
+      <updated>1711096407468</updated>
+    </task>
+    <option name="localTasksCounter" value="112" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
