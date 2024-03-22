@@ -3,7 +3,7 @@ Description=cusmo
 
 
 [Service]
-User=ayman
+User=root
 WorkingDirectory=/var/www/html/payroll
 ExecStart=/var/www/html/flutter/bin/dart bin/servers/server_cusmo.dart
 Restart=always

@@ -4,11 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2cd96aa6-1f37-4a46-8829-22d95d80a82b" name="Changes" comment="s">
+    <list default="true" id="2cd96aa6-1f37-4a46-8829-22d95d80a82b" name="Changes" comment="service">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/asnan.service" beforeDir="false" afterPath="$PROJECT_DIR$/asnan.service" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/asnanTwo.service" beforeDir="false" afterPath="$PROJECT_DIR$/asnanTwo.service" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cusmo.service" beforeDir="false" afterPath="$PROJECT_DIR$/cusmo.service" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eco.service" beforeDir="false" afterPath="$PROJECT_DIR$/eco.service" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,15 +33,15 @@
     <option name="showMembers" value="true" />
     <option name="showVisibilityIcons" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "dart.analysis.tool.window.visible": "false",
-    "last_opened_file_path": "/Volumes/DATA-02/belal/server_example",
-    "show.migrate.to.gradle.popup": "false"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Volumes/DATA-02/belal/server_example&quot;,
+    &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
@@ -55,13 +55,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1677838431458</updated>
-    </task>
-    <task id="LOCAL-00059" summary="add dashboard website eco">
-      <created>1687875154503</created>
-      <option name="number" value="00059" />
-      <option name="presentableId" value="LOCAL-00059" />
-      <option name="project" value="LOCAL" />
-      <updated>1687875154503</updated>
     </task>
     <task id="LOCAL-00060" summary="server socket">
       <created>1688138295521</created>
@@ -399,7 +392,14 @@
       <option name="project" value="LOCAL" />
       <updated>1711026738990</updated>
     </task>
-    <option name="localTasksCounter" value="108" />
+    <task id="LOCAL-00108" summary="service">
+      <created>1711031627531</created>
+      <option name="number" value="00108" />
+      <option name="presentableId" value="LOCAL-00108" />
+      <option name="project" value="LOCAL" />
+      <updated>1711031627531</updated>
+    </task>
+    <option name="localTasksCounter" value="109" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -414,7 +414,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add eco" />
     <MESSAGE value="change eco location" />
     <MESSAGE value="add dashboard website eco" />
     <MESSAGE value="server socket" />
@@ -439,6 +438,7 @@
     <MESSAGE value="update eco" />
     <MESSAGE value="add asnan_two" />
     <MESSAGE value="s" />
-    <option name="LAST_COMMIT_MESSAGE" value="s" />
+    <MESSAGE value="service" />
+    <option name="LAST_COMMIT_MESSAGE" value="service" />
   </component>
 </project>
