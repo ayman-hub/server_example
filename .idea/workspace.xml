@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2cd96aa6-1f37-4a46-8829-22d95d80a82b" name="Changes" comment="asnan_three">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="2cd96aa6-1f37-4a46-8829-22d95d80a82b" name="Changes" comment="asnan_four">
+      <change beforePath="$PROJECT_DIR$/server_example.conf" beforeDir="false" afterPath="$PROJECT_DIR$/server_example.conf" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,13 +52,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1677838431458</updated>
-    </task>
-    <task id="LOCAL-00066" summary="server socket 2">
-      <created>1688139936016</created>
-      <option name="number" value="00066" />
-      <option name="presentableId" value="LOCAL-00066" />
-      <option name="project" value="LOCAL" />
-      <updated>1688139936016</updated>
     </task>
     <task id="LOCAL-00067" summary="server socket 3">
       <created>1688140006122</created>
@@ -396,7 +389,14 @@
       <option name="project" value="LOCAL" />
       <updated>1711359703995</updated>
     </task>
-    <option name="localTasksCounter" value="115" />
+    <task id="LOCAL-00115" summary="asnan_four">
+      <created>1711719962788</created>
+      <option name="number" value="00115" />
+      <option name="presentableId" value="LOCAL-00115" />
+      <option name="project" value="LOCAL" />
+      <updated>1711719962788</updated>
+    </task>
+    <option name="localTasksCounter" value="116" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -411,7 +411,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="server socket" />
     <MESSAGE value="server socket reset" />
     <MESSAGE value="server socket 1" />
     <MESSAGE value="server socket 2" />
@@ -436,6 +435,7 @@
     <MESSAGE value="service" />
     <MESSAGE value="locations" />
     <MESSAGE value="asnan_three" />
-    <option name="LAST_COMMIT_MESSAGE" value="asnan_three" />
+    <MESSAGE value="asnan_four" />
+    <option name="LAST_COMMIT_MESSAGE" value="asnan_four" />
   </component>
 </project>
