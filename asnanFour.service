@@ -1,0 +1,14 @@
+[Unit]
+Description=asnanFour
+
+
+[Service]
+User=root
+WorkingDirectory=/var/www/html/payroll
+ExecStart=/var/www/html/flutter/bin/dart run /var/www/html/payroll/bin/servers/server_asnan_four.dart
+Restart=always
+# Remove this line if using Angel:
+#Environment=ANGEL_ENV=production
+
+[Install]
+WantedBy=multi-user.target
