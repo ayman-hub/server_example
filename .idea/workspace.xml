@@ -4,115 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2cd96aa6-1f37-4a46-8829-22d95d80a82b" name="Changes" comment="add eco">
-      <change afterPath="$PROJECT_DIR$/elite.service" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/$CACHE_FILE$" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/$CACHE_FILE$" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_SDK.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Dart_SDK.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/server_example.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/server_example.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="2cd96aa6-1f37-4a46-8829-22d95d80a82b" name="Changes" comment="asnan_four">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/asnan.service" beforeDir="false" afterPath="$PROJECT_DIR$/asnan.service" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/asnanFour.service" beforeDir="false" afterPath="$PROJECT_DIR$/asnanFour.service" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/asnanThree.service" beforeDir="false" afterPath="$PROJECT_DIR$/asnanThree.service" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/asnanTwo.service" beforeDir="false" afterPath="$PROJECT_DIR$/asnanTwo.service" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/server.dart" beforeDir="false" afterPath="$PROJECT_DIR$/bin/server.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cusmo.service" beforeDir="false" afterPath="$PROJECT_DIR$/cusmo.service" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/glass.service" beforeDir="false" afterPath="$PROJECT_DIR$/glass.service" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server_example.conf" beforeDir="false" afterPath="$PROJECT_DIR$/server_example.conf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server_example.service" beforeDir="false" afterPath="$PROJECT_DIR$/server_example.service" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/assets/AssetManifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/web/assets/AssetManifest.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/assets/FontManifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/web/assets/FontManifest.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/assets/NOTICES" beforeDir="false" afterPath="$PROJECT_DIR$/web/assets/NOTICES" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/assets/assets/fonts/Cairo-Black.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/web/assets/assets/fonts/Cairo-Black.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/assets/assets/fonts/Cairo-Bold.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/web/assets/assets/fonts/Cairo-Bold.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/assets/assets/fonts/Cairo-ExtraBold.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/web/assets/assets/fonts/Cairo-ExtraBold.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/assets/assets/fonts/Cairo-ExtraLight.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/web/assets/assets/fonts/Cairo-ExtraLight.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/assets/assets/fonts/Cairo-Light.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/web/assets/assets/fonts/Cairo-Light.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/assets/assets/fonts/Cairo-Medium.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/web/assets/assets/fonts/Cairo-Medium.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/assets/assets/fonts/Cairo-Regular.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/web/assets/assets/fonts/Cairo-Regular.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/assets/assets/fonts/Cairo-SemiBold.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/web/assets/assets/fonts/Cairo-SemiBold.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/assets/assets/fonts/SEGOEUI.TTF" beforeDir="false" afterPath="$PROJECT_DIR$/web/assets/assets/fonts/SEGOEUI.TTF" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/assets/assets/icons/Documents.svg" beforeDir="false" afterPath="$PROJECT_DIR$/web/assets/assets/icons/Documents.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/assets/assets/icons/Figma_file.svg" beforeDir="false" afterPath="$PROJECT_DIR$/web/assets/assets/icons/Figma_file.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/assets/assets/icons/Search.svg" beforeDir="false" afterPath="$PROJECT_DIR$/web/assets/assets/icons/Search.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/assets/assets/icons/doc_file.svg" beforeDir="false" afterPath="$PROJECT_DIR$/web/assets/assets/icons/doc_file.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/assets/assets/icons/drop_box.svg" beforeDir="false" afterPath="$PROJECT_DIR$/web/assets/assets/icons/drop_box.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/assets/assets/icons/excle_file.svg" beforeDir="false" afterPath="$PROJECT_DIR$/web/assets/assets/icons/excle_file.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/assets/assets/icons/folder.svg" beforeDir="false" afterPath="$PROJECT_DIR$/web/assets/assets/icons/folder.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/assets/assets/icons/google_drive.svg" beforeDir="false" afterPath="$PROJECT_DIR$/web/assets/assets/icons/google_drive.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/assets/assets/icons/loading.gif" beforeDir="false" afterPath="$PROJECT_DIR$/web/assets/assets/icons/loading.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/assets/assets/icons/logo.svg" beforeDir="false" afterPath="$PROJECT_DIR$/web/assets/assets/icons/logo.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/assets/assets/icons/media.svg" beforeDir="false" afterPath="$PROJECT_DIR$/web/assets/assets/icons/media.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/assets/assets/icons/media_file.svg" beforeDir="false" afterPath="$PROJECT_DIR$/web/assets/assets/icons/media_file.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/assets/assets/icons/menu_dashbord.svg" beforeDir="false" afterPath="$PROJECT_DIR$/web/assets/assets/icons/menu_dashbord.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/assets/assets/icons/menu_doc.svg" beforeDir="false" afterPath="$PROJECT_DIR$/web/assets/assets/icons/menu_doc.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/assets/assets/icons/menu_login.svg" beforeDir="false" afterPath="$PROJECT_DIR$/web/assets/assets/icons/menu_login.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/assets/assets/icons/menu_logout.svg" beforeDir="false" afterPath="$PROJECT_DIR$/web/assets/assets/icons/menu_logout.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/assets/assets/icons/menu_notification.svg" beforeDir="false" afterPath="$PROJECT_DIR$/web/assets/assets/icons/menu_notification.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/assets/assets/icons/menu_profile.svg" beforeDir="false" afterPath="$PROJECT_DIR$/web/assets/assets/icons/menu_profile.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/assets/assets/icons/menu_setting.svg" beforeDir="false" afterPath="$PROJECT_DIR$/web/assets/assets/icons/menu_setting.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/assets/assets/icons/menu_store.svg" beforeDir="false" afterPath="$PROJECT_DIR$/web/assets/assets/icons/menu_store.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/assets/assets/icons/menu_task.svg" beforeDir="false" afterPath="$PROJECT_DIR$/web/assets/assets/icons/menu_task.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/assets/assets/icons/menu_tran.svg" beforeDir="false" afterPath="$PROJECT_DIR$/web/assets/assets/icons/menu_tran.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/assets/assets/icons/one_drive.svg" beforeDir="false" afterPath="$PROJECT_DIR$/web/assets/assets/icons/one_drive.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/assets/assets/icons/pdf_file.svg" beforeDir="false" afterPath="$PROJECT_DIR$/web/assets/assets/icons/pdf_file.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/assets/assets/icons/sound_file.svg" beforeDir="false" afterPath="$PROJECT_DIR$/web/assets/assets/icons/sound_file.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/assets/assets/icons/unknown.svg" beforeDir="false" afterPath="$PROJECT_DIR$/web/assets/assets/icons/unknown.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/assets/assets/icons/xd_file.svg" beforeDir="false" afterPath="$PROJECT_DIR$/web/assets/assets/icons/xd_file.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/assets/assets/images/IMG_2949.MOV" beforeDir="false" afterPath="$PROJECT_DIR$/web/assets/assets/images/IMG_2949.MOV" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/assets/assets/images/deafult_product.png" beforeDir="false" afterPath="$PROJECT_DIR$/web/assets/assets/images/deafult_product.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/assets/assets/images/deafult_profile.png" beforeDir="false" afterPath="$PROJECT_DIR$/web/assets/assets/images/deafult_profile.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/assets/assets/images/demo.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/web/assets/assets/images/demo.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/assets/assets/images/error_image.png" beforeDir="false" afterPath="$PROJECT_DIR$/web/assets/assets/images/error_image.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/assets/assets/images/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/web/assets/assets/images/logo.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/assets/assets/images/profile_pic.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/web/assets/assets/images/profile_pic.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/assets/assets/images/profile_pic.png" beforeDir="false" afterPath="$PROJECT_DIR$/web/assets/assets/images/profile_pic.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/assets/fonts/MaterialIcons-Regular.otf" beforeDir="false" afterPath="$PROJECT_DIR$/web/assets/fonts/MaterialIcons-Regular.otf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/assets/packages/cupertino_icons/assets/CupertinoIcons.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/web/assets/packages/cupertino_icons/assets/CupertinoIcons.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/assets/packages/flutter_math_fork/lib/katex_fonts/fonts/KaTeX_AMS-Regular.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/web/assets/packages/flutter_math_fork/lib/katex_fonts/fonts/KaTeX_AMS-Regular.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/assets/packages/flutter_math_fork/lib/katex_fonts/fonts/KaTeX_Caligraphic-Bold.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/web/assets/packages/flutter_math_fork/lib/katex_fonts/fonts/KaTeX_Caligraphic-Bold.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/assets/packages/flutter_math_fork/lib/katex_fonts/fonts/KaTeX_Caligraphic-Regular.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/web/assets/packages/flutter_math_fork/lib/katex_fonts/fonts/KaTeX_Caligraphic-Regular.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/assets/packages/flutter_math_fork/lib/katex_fonts/fonts/KaTeX_Fraktur-Bold.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/web/assets/packages/flutter_math_fork/lib/katex_fonts/fonts/KaTeX_Fraktur-Bold.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/assets/packages/flutter_math_fork/lib/katex_fonts/fonts/KaTeX_Fraktur-Regular.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/web/assets/packages/flutter_math_fork/lib/katex_fonts/fonts/KaTeX_Fraktur-Regular.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/assets/packages/flutter_math_fork/lib/katex_fonts/fonts/KaTeX_Main-Bold.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/web/assets/packages/flutter_math_fork/lib/katex_fonts/fonts/KaTeX_Main-Bold.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/assets/packages/flutter_math_fork/lib/katex_fonts/fonts/KaTeX_Main-BoldItalic.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/web/assets/packages/flutter_math_fork/lib/katex_fonts/fonts/KaTeX_Main-BoldItalic.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/assets/packages/flutter_math_fork/lib/katex_fonts/fonts/KaTeX_Main-Italic.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/web/assets/packages/flutter_math_fork/lib/katex_fonts/fonts/KaTeX_Main-Italic.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/assets/packages/flutter_math_fork/lib/katex_fonts/fonts/KaTeX_Main-Regular.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/web/assets/packages/flutter_math_fork/lib/katex_fonts/fonts/KaTeX_Main-Regular.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/assets/packages/flutter_math_fork/lib/katex_fonts/fonts/KaTeX_Math-BoldItalic.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/web/assets/packages/flutter_math_fork/lib/katex_fonts/fonts/KaTeX_Math-BoldItalic.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/assets/packages/flutter_math_fork/lib/katex_fonts/fonts/KaTeX_Math-Italic.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/web/assets/packages/flutter_math_fork/lib/katex_fonts/fonts/KaTeX_Math-Italic.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/assets/packages/flutter_math_fork/lib/katex_fonts/fonts/KaTeX_SansSerif-Bold.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/web/assets/packages/flutter_math_fork/lib/katex_fonts/fonts/KaTeX_SansSerif-Bold.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/assets/packages/flutter_math_fork/lib/katex_fonts/fonts/KaTeX_SansSerif-Italic.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/web/assets/packages/flutter_math_fork/lib/katex_fonts/fonts/KaTeX_SansSerif-Italic.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/assets/packages/flutter_math_fork/lib/katex_fonts/fonts/KaTeX_SansSerif-Regular.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/web/assets/packages/flutter_math_fork/lib/katex_fonts/fonts/KaTeX_SansSerif-Regular.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/assets/packages/flutter_math_fork/lib/katex_fonts/fonts/KaTeX_Script-Regular.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/web/assets/packages/flutter_math_fork/lib/katex_fonts/fonts/KaTeX_Script-Regular.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/assets/packages/flutter_math_fork/lib/katex_fonts/fonts/KaTeX_Size1-Regular.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/web/assets/packages/flutter_math_fork/lib/katex_fonts/fonts/KaTeX_Size1-Regular.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/assets/packages/flutter_math_fork/lib/katex_fonts/fonts/KaTeX_Size2-Regular.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/web/assets/packages/flutter_math_fork/lib/katex_fonts/fonts/KaTeX_Size2-Regular.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/assets/packages/flutter_math_fork/lib/katex_fonts/fonts/KaTeX_Size3-Regular.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/web/assets/packages/flutter_math_fork/lib/katex_fonts/fonts/KaTeX_Size3-Regular.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/assets/packages/flutter_math_fork/lib/katex_fonts/fonts/KaTeX_Size4-Regular.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/web/assets/packages/flutter_math_fork/lib/katex_fonts/fonts/KaTeX_Size4-Regular.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/assets/packages/flutter_math_fork/lib/katex_fonts/fonts/KaTeX_Typewriter-Regular.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/web/assets/packages/flutter_math_fork/lib/katex_fonts/fonts/KaTeX_Typewriter-Regular.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/assets/packages/flutter_paypal/lib/src/assets/img/cloud_state.png" beforeDir="false" afterPath="$PROJECT_DIR$/web/assets/packages/flutter_paypal/lib/src/assets/img/cloud_state.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/assets/packages/wakelock_web/assets/no_sleep.js" beforeDir="false" afterPath="$PROJECT_DIR$/web/assets/packages/wakelock_web/assets/no_sleep.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/assets/shaders/ink_sparkle.frag" beforeDir="false" afterPath="$PROJECT_DIR$/web/assets/shaders/ink_sparkle.frag" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/canvaskit/canvaskit.js" beforeDir="false" afterPath="$PROJECT_DIR$/web/canvaskit/canvaskit.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/canvaskit/canvaskit.wasm" beforeDir="false" afterPath="$PROJECT_DIR$/web/canvaskit/canvaskit.wasm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/canvaskit/profiling/canvaskit.js" beforeDir="false" afterPath="$PROJECT_DIR$/web/canvaskit/profiling/canvaskit.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/canvaskit/profiling/canvaskit.wasm" beforeDir="false" afterPath="$PROJECT_DIR$/web/canvaskit/profiling/canvaskit.wasm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/favicon.png" beforeDir="false" afterPath="$PROJECT_DIR$/web/favicon.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/flutter.js" beforeDir="false" afterPath="$PROJECT_DIR$/web/flutter.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/flutter_service_worker.js" beforeDir="false" afterPath="$PROJECT_DIR$/web/flutter_service_worker.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/icons/Icon-192.png" beforeDir="false" afterPath="$PROJECT_DIR$/web/icons/Icon-192.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/icons/Icon-512.png" beforeDir="false" afterPath="$PROJECT_DIR$/web/icons/Icon-512.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/icons/Icon-maskable-192.png" beforeDir="false" afterPath="$PROJECT_DIR$/web/icons/Icon-maskable-192.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/icons/Icon-maskable-512.png" beforeDir="false" afterPath="$PROJECT_DIR$/web/icons/Icon-maskable-512.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/main.dart.js" beforeDir="false" afterPath="$PROJECT_DIR$/web/main.dart.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/web/manifest.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/version.json" beforeDir="false" afterPath="$PROJECT_DIR$/web/version.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -147,7 +40,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "dart.analysis.tool.window.visible": "false",
-    "last_opened_file_path": "/Volumes/DATA/belal/server_example",
+    "last_opened_file_path": "/Users/ayman/Desktop/backup/belal/server_example",
     "show.migrate.to.gradle.popup": "false"
   }
 }]]></component>
@@ -523,6 +416,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <MESSAGE value="server socket reset" />
     <MESSAGE value="server socket 1" />
     <MESSAGE value="server socket 2" />
     <MESSAGE value="server socket 3" />
