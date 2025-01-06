@@ -57,20 +57,6 @@
       <option name="presentableId" value="Default" />
       <updated>1677838431458</updated>
     </task>
-    <task id="LOCAL-00075" summary="accept http and https">
-      <created>1691607343485</created>
-      <option name="number" value="00075" />
-      <option name="presentableId" value="LOCAL-00075" />
-      <option name="project" value="LOCAL" />
-      <updated>1691607343485</updated>
-    </task>
-    <task id="LOCAL-00076" summary="accept http and https with different servers">
-      <created>1691607621803</created>
-      <option name="number" value="00076" />
-      <option name="presentableId" value="LOCAL-00076" />
-      <option name="project" value="LOCAL" />
-      <updated>1691607621803</updated>
-    </task>
     <task id="LOCAL-00077" summary="accept http and https with different servers 2">
       <created>1691607868642</created>
       <option name="number" value="00077" />
@@ -400,7 +386,21 @@
       <option name="project" value="LOCAL" />
       <updated>1736142635706</updated>
     </task>
-    <option name="localTasksCounter" value="124" />
+    <task id="LOCAL-00124" summary="wasm">
+      <created>1736142846927</created>
+      <option name="number" value="00124" />
+      <option name="presentableId" value="LOCAL-00124" />
+      <option name="project" value="LOCAL" />
+      <updated>1736142846927</updated>
+    </task>
+    <task id="LOCAL-00125" summary="wasm">
+      <created>1736143035847</created>
+      <option name="number" value="00125" />
+      <option name="presentableId" value="LOCAL-00125" />
+      <option name="project" value="LOCAL" />
+      <updated>1736143035847</updated>
+    </task>
+    <option name="localTasksCounter" value="126" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
