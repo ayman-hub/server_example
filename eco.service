@@ -5,7 +5,7 @@ Description=eco
 [Service]
 User=root
 WorkingDirectory=/var/www/html/eco/eco_server
-ExecStart=/var/www/html/flutter/bin/dart bin/server.dart
+ExecStart=/var/www/html/flutter/bin/dart lib/server.dart
 Restart=always
 # Remove this line if using Angel:
 #Environment=ANGEL_ENV=production
