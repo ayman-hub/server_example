@@ -1,0 +1,14 @@
+[Unit]
+Description=hayatClinic
+
+
+[Service]
+User=root
+WorkingDirectory=/var/www/html/payroll
+ExecStart=/var/www/html/flutter/bin/dart run /var/www/html/payroll/bin/servers/server_hayat_clinic.dart
+Restart=always
+# Remove this line if using Angel:
+#Environment=ANGEL_ENV=production
+
+[Install]
+WantedBy=multi-user.target
